@@ -1,6 +1,6 @@
 # FML Laboratory Programs
 
-College GitHub account: **11259a232-15**.
+College GitHub account: **11259a232-spec**.
 
 12 programs, each in its own folder with code, supplied text output, datasets where required, and graphs where applicable. Open an experiment to view its code and output together.
 
